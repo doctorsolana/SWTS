@@ -29,15 +29,15 @@
 }
 
 .who {
-  color: #a079ff;
+  color: #ec80e3;
   max-width: 100px;
   overflow: hidden;
   text-overflow: ellipsis;
 }
 
 .amount.win {
-  color: #58ff8a;
-}
+  color: #3617e3;
+}¨
 
 .flares {
   display: flex;
